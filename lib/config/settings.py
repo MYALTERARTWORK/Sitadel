@@ -1,7 +1,7 @@
 import os.path
 from enum import IntEnum
 
-import yaml
+import yml
 
 
 class Risk(IntEnum):
